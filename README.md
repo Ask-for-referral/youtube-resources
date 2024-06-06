@@ -1,4 +1,4 @@
-Sure, here are the resources listed as separate points:
+## <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" width="50" height="20"> YouTube Resources
 
 ## Data Science / Machine Learning / Deep Learning
 
